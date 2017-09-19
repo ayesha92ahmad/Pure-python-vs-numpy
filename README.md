@@ -21,3 +21,5 @@ We compare the execution time of various methods written in pure python and Nump
 We see that initially, when the data is small, ie when the matrix has fewer elements Python performs nearly as well or better than Numpy. 
 
 However, as the data gets larger, **Numpy** performs extremely well compared to **Python**. We do this to emphasize on why Numpy is good Linear Algebra operations. Not only is it easier to code because of its expansive library for handling of matrices and vectors but also due to the fact the Numpy uses processor’s full capability to perform these calculations fast.
+
+![Comparison](https://github.com/ayesha92ahmad/Pure-python-vs-numpy/blob/master/report.png)
